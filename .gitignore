@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Hugging Face / Model Files (VERY IMPORTANT)
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.model
+
+# Transformers Cache
+.cache/
+.huggingface/
+hf_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large files / temp
+*.zip
+*.tar
+*.gz
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac/Linux temp files
+*.swp
