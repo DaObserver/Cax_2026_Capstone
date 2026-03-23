@@ -71,11 +71,14 @@ AI-powered concept explanations
 Chapter-based structured learning
 Interactive practice mode
 Clean UI for better user experience
+
 📈 Future Improvements
 Progress tracking
 More quiz types
 Faster model response
 UI enhancements
+
+
 💼 Why This Project Matters
 
 This project demonstrates:
